@@ -14,4 +14,4 @@ Landing page accessibility renovation for Horisen website:
 
 
 Screenshot of deployed finished renovation:
-![Horisen website](./assets/images/horisen.website.png)
+![Horisen website](./assets/images/horisen-website.png)
