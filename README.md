@@ -4,7 +4,7 @@
       ╩ ╩└─┘┴└─┴└─┘└─┘┘└┘  ╩╚═└─┘└  ┴ ┴└─┘ ┴ └─┘┴└─
 
 Description:
-Landing page accessibility renovation for Horisen website:
+Landing page accessibility renovation for Horisen website
 1) UI Accessibility Improved
 2) Semantic Elements Added & Updated
 3) Logical Structure of elements restructure
