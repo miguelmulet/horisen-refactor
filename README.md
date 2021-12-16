@@ -15,4 +15,5 @@ Landing page accessibility renovation for Horisen website
 [Horisen Website Link](https://miguelmulet.github.io/horisen-refactor/)
 
 Screenshot:
+
 ![Horisen website](./assets/images/horisen-website.png)
