@@ -13,6 +13,5 @@ Landing page accessibility renovation for Horisen website:
 6) No errors within code what-so-ever
 
 
-============================================================
 Screenshot of deployed finished renovation:
 !alttext(https://imgur.com/a/yHeNa8L)
