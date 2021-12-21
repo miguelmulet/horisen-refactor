@@ -7,7 +7,6 @@
         |  |  ||     ||  .  \ |  |\    ||     ||     ||  |  |    |  .  \|     ||  |   |  |  \     | |  |  |     ||  .  \
         |__|__| \___/ |__|\_||____|\___||_____| \___/ |__|__|    |__|\_||_____||__|   |__|__|\____| |__|   \___/ |__|\_|
                                                                                                                 
-
 Description:
 Landing page accessibility renovation for Horisen website
 1) UI Accessibility Improved
