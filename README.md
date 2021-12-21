@@ -1,8 +1,4 @@
 
-      ╦ ╦┌─┐┬─┐┬┌─┐┌─┐┌┐┌  ╦═╗┌─┐┌─┐┌─┐┌─┐┌┬┐┌─┐┬─┐
-      ╠═╣│ │├┬┘│└─┐├┤ │││  ╠╦╝├┤ ├┤ ├─┤│   │ │ │├┬┘
-      ╩ ╩└─┘┴└─┴└─┘└─┘┘└┘  ╩╚═└─┘└  ┴ ┴└─┘ ┴ └─┘┴└─
-
 Description:
 Landing page accessibility renovation for Horisen website
 1) UI Accessibility Improved
